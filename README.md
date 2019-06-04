@@ -67,7 +67,7 @@ v1.0 | 28/05/2019 | Cortex-ConfigStore-Management-UI | Created
 ## Licensing
 All functionality within this module is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
-Copyright 2018 Cortex Limited
+Copyright 2019 Cortex Limited
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
