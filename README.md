@@ -1,4 +1,4 @@
-<a href="https://www.cortex-ia.co.uk/" target="_blank"><img src="https://github.com/CortexIATest/CTXImages/blob/master/Cortex-350-120.png" alt="Welcome to Cortex!" width="350" height="120" border="0"></a>
+<a href="https://www.cortex-ia.com/" target="_blank"><img src="https://github.com/CortexIATest/CTXImages/blob/master/Cortex-350-120.png" alt="Welcome to Cortex!" width="350" height="120" border="0"></a>
 
 # CTX-Configuration-Store
 Cortex flows and subtasks to interact and manage the Cortex-ConfigStore database.
@@ -12,6 +12,8 @@ The module allows users to:
   * Parameter Values
 
 * Retrieve config parameters assigned to the Area, Customer and/or Environment specified
+
+* Implement Replicated Databases between 2 SQL Servers
 
 
 ## Table of Contents
@@ -36,8 +38,9 @@ The CTX-Configuration-Store module requires the following Cortex OCIs:
 
 ### Files
 The CTX-Configuration-Store module requires the following files:
-* [CTX-Configuration-Store Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/v1.0/CTX-Configuration-Store.studiopkg)
-* [Cortex-ConfigurationStore Database Install Script](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/v1.0/CTX-Configuration-Store-Install.sql)
+* [CTX-Configuration-Store Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/v1.1/CTX-Configuration-Store.studiopkg)
+* [Cortex-ConfigStore Database Install Script](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/v1.1/CTX-Configuration-Deployment-Script.sql)
+* [CTX-Configuration-Store v0.1 to v1 Migration Script](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/v1.1/Configuration_v01-to-v1_Migration.sql)
 
 
 ## Installation
@@ -63,11 +66,12 @@ v1.0 | 28/05/2019 | Config-CEV-Encrypt-Value | Created
 v1.0 | 28/05/2019 | Config-GCPQ-Generate-Config-Params-Queries | Created
 v1.0 | 28/05/2019 | Config-GPVDQ-Generate-Parameter-Value-Delete-Query | Created
 v1.0 | 28/05/2019 | Cortex-ConfigStore-Management-UI | Created
+v1.1 | 3/10/2019  | Replication and Migration Scripts | Created
 
 ## Licensing
 All functionality within this module is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
-Copyright 2019 Cortex Limited
+Copyright 2018 Cortex Limited
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
