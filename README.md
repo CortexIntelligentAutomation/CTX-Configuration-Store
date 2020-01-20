@@ -38,9 +38,9 @@ The CTX-Configuration-Store module requires the following Cortex OCIs:
 
 ### Files
 The CTX-Configuration-Store module requires the following files:
-* [CTX-Configuration-Store Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/v1.1/CTX-Configuration-Store.studiopkg)
-* [Cortex-ConfigStore Database Install Script](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/v1.1/CTX-Configuration-Deployment-Script.sql)
-* [CTX-Configuration-Store v0.1 to v1 Migration Script](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/v1.1/Configuration_v01-to-v1_Migration.sql)
+* [CTX-Configuration-Store Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/untagged-65b7745783574262f475/CTX-Configuration-Store.studiopkg)
+* [Cortex-ConfigStore Database Install Script](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/untagged-65b7745783574262f475/CTX-Configuration-Deployment-Script.sql)
+* [CTX-Configuration-Store v0.1 to v1 Migration Script](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/untagged-65b7745783574262f475/Configuration_v01-to-v1_Migration.sql)
 
 
 ## Installation
