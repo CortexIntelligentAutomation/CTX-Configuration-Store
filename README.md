@@ -22,6 +22,7 @@ The module allows users to:
     * [OCIs](#ocis)
     * [Files](#files)
     * [Other](#other)
+1) [Support and Warranty](#support-and-warranty)
 1) [Installation](#installation)
 1) [How to use](#how-to-use)
 1) [How you can contribute](#how-you-can-contribute)
@@ -42,6 +43,8 @@ The CTX-Configuration-Store module requires the following files:
 * [Cortex-ConfigStore Database Install Script](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/1.1/CTX-Configuration-Deployment-Script.sql)
 * [CTX-Configuration-Store v0.1 to v1 Migration Script](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/1.1/Configuration_v01-to-v1_Migration.sql)
 
+## Support and Warranty 
+This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation
 Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/blob/master/CTX-Configuration-Store%20-%20Deployment%20Plan.pdf).
