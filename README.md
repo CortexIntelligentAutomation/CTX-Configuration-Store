@@ -74,7 +74,7 @@ v2.0 | 10/11/2021 | AD Segregration Capability added  | Created
 ## Licensing
 All functionality within this module is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
-Copyright 2018 Cortex Limited
+Copyright 2021 Cortex Limited
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
