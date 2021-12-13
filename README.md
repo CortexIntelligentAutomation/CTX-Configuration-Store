@@ -31,7 +31,7 @@ The module allows users to:
 
 ## Dependencies
 ### Cortex Version
-This version of the CTX-Configuration-Store module was developed in Cortex v6.4.0. Some functionality may not be available in earlier verions of Cortex.
+This version of the CTX-Configuration-Store module was developed in Cortex v6.5.0. Some functionality may not be available in earlier verions of Cortex.
 
 ### OCIs
 The CTX-Configuration-Store module requires the following Cortex OCIs:
@@ -39,8 +39,8 @@ The CTX-Configuration-Store module requires the following Cortex OCIs:
 
 ### Files
 The CTX-Configuration-Store module requires the following files:
-* [CTX-Configuration-Store Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/1.1/CTX-Configuration-Store.studiopkg)
-* [Cortex-ConfigStore Database Install Script](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/1.1/CTX-Configuration-Deployment-Script.sql)
+* [CTX-Configuration-Store Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/2.0/CTX-Configuration-Store.studiopkg)
+* [Cortex-ConfigStore Database Install Script](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/2.0/CTX-Configuration-Deployment-Script.sql)
 * [CTX-Configuration-Store v0.1 to v1 Migration Script](https://github.com/CortexIntelligentAutomation/CTX-Configuration-Store/releases/download/1.1/Configuration_v01-to-v1_Migration.sql)
 
 ## Support and Warranty 
@@ -70,7 +70,7 @@ v1.0 | 28/05/2019 | Config-GCPQ-Generate-Config-Params-Queries | Created
 v1.0 | 28/05/2019 | Config-GPVDQ-Generate-Parameter-Value-Delete-Query | Created
 v1.0 | 28/05/2019 | Cortex-ConfigStore-Management-UI | Created
 v1.1 | 3/10/2019  | Replication and Migration Scripts | Created
-
+v2.0 | 10/11/2021 | AD Segregration Capability added  | Created
 ## Licensing
 All functionality within this module is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
