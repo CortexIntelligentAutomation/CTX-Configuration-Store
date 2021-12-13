@@ -70,7 +70,7 @@ v1.0 | 28/05/2019 | Config-GCPQ-Generate-Config-Params-Queries | Created
 v1.0 | 28/05/2019 | Config-GPVDQ-Generate-Parameter-Value-Delete-Query | Created
 v1.0 | 28/05/2019 | Cortex-ConfigStore-Management-UI | Created
 v1.1 | 3/10/2019  | Replication and Migration Scripts | Created
-v2.0 | 10/11/2021 | AD Segregration Capability added  | Created
+v1.2 | 13/12/2021 | AD Segregration Capability added  | Created
 ## Licensing
 All functionality within this module is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
